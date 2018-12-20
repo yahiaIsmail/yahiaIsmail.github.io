@@ -1,2 +1,10 @@
 User-agent: *
+Disallow: /404/
+Disallow: /colors/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /javascript/
+Disallow: /sass/
+Disallow: /stylesheets/
+Allow: /
 Sitemap: https://yahiaismail.me/sitemap.xml
