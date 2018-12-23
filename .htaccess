@@ -1,4 +1,2 @@
 ErrorDocument 404 /404.html
-  RewriteEngine On
-        RewriteCond %{HTTP_HOST} ^yahiaismail.me$
-        RewriteRule ^$ http://yahiaismail.me/index.html [L,R=301]
+ 
